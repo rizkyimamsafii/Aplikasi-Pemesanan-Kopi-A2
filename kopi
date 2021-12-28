@@ -3,6 +3,8 @@ package kopi.pemesanan;
 class Program {
     public static void main(String args[]){
         System.out.println("Selamat datang");
+        System.out.println("Daftar Menu");
+        
     }
 }
 //wow
